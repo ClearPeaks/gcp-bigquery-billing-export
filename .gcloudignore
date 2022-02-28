@@ -1,0 +1,6 @@
+.git
+.gitignore
+.vscode/
+*.md
+__pycache__/
+*.sh
